@@ -29,4 +29,5 @@ aprender a utilizar las etiquetas estandar de HTML3  y los estilos de CSS3.
 
 ## 4. Link al Demo
 
-https://clonacion-google-sam.netlify.app/
+Aqui puedes visualizar mmi proyecto termonado:
+[Clonacion de Google](https://clonacion-google-sam.netlify.app/)
